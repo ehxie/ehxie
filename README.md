@@ -13,7 +13,9 @@ logo：https://simpleicons.org/
 
 - 💫 Thinking more than writing
 
-### Technology Stack
+- 😎 Welcome to my Blog —— 👉 <a href="https://ehxie.github.io/" style="text-decoration:none" target="_blank">**ehuixie's Blog**</a>
+
+## Technology Stack
 
 <div>
 	<!--中间不能有换行-->
@@ -27,6 +29,6 @@ logo：https://simpleicons.org/
 </div>
 
 
-### Stats
+## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehxie&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
