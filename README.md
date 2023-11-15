@@ -15,6 +15,8 @@ logo：https://simpleicons.org/
 
 - 😎 Welcome to my Blog —— 👉 <a href="https://ehxie.github.io/" style="text-decoration:none" target="_blank">**ehuixie's Blog**</a>
 
+- 🔥 Keep Learning: https://github.com/ehxie/learning
+
 ## Technology Stack
 
 <div>
